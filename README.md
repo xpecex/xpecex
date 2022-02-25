@@ -2,4 +2,4 @@
 
 ![xPeCex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xpecex&theme=synthwave&layout=compact)
 
-[![Support](https://folhaeconomica.com.br/wp-content/uploads/2020/01/umbler-hospedagem-%C3%A9-bom.png)](https://www.umbler.com/br/seja-bem-vindo?a=9jv4d6vj)
+[![Sponsored by](https://swapnex.io/assets/promo/en/1200x150_0.gif)](https://swapnex.io/ref/xpecex)
